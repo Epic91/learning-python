@@ -7,3 +7,5 @@ Learning Python using Codecademy, this repo is to showcase all the projects i've
 2. Setting variables and incrementing [Script](https://github.com/Epic91/learning-python/blob/master/Projects/script.py)
 3. Conditionals [Magic 8](https://github.com/Epic91/learning-python/blob/master/Projects/magic8.py)
 4. Conditionals and Boolean Operators  [Shipping](https://github.com/Epic91/learning-python/blob/master/Projects/shipping.py)
+
+## Lists:
